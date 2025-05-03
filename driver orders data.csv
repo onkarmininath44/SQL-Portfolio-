@@ -1,0 +1,11 @@
+order_id,driver_id,pickup_date,distance,duration,cancellation
+1,1,01-01-2025 18:15,20,32,
+2,1,01-01-2025 19:10,20,27,
+3,1,03-01-2025 00:12,13.4,20 s,NaN
+4,2,04-01-2025 13:53,23.4,40,NaN
+5,3,08-01-2025 21:10,10,15,NaN
+6,3,null,null,null,cancellation
+7,2,08-01-2024 21:30,25,25,null
+8,2,10-01-2024 00:15,23.4,15,null
+9,2,null,null,null,Customer Cancellation
+10,1,11-01-2024 18:50,10,10,null
